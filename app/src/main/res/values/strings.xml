@@ -6,4 +6,5 @@
     <string name="login_button_text">Войти</string>
     <string name="registration_button_text">Регистрация</string>
     <string name="forgot_password_button_text">Забыл пароль</string>
+    <string name="second_activity">Second Activity</string>
 </resources>
